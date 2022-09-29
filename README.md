@@ -10,4 +10,4 @@ Hey y'all 👋 My Name is Mani Gutta - it's nice to meet you!
 
 <a href="https://www.linkedin.com/" target="www.linkedin.com/in/mani-g-05b00516a">LinkedIn</a>
 
-< a href="mailto:manig.devops@gmail.com" target="https://mail.google.com/mail/">Gmail< /a>
+<a href="mailto:manig.devops@gmail.com" target="https://mail.google.com/mail/">Gmail</a>
