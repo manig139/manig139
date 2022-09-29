@@ -8,7 +8,5 @@ Hey y'all 👋 My Name is Mani Gutta - it's nice to meet you!
 🎉 Fun facts:You will have satirical comments in funny way when we have a Rapo, Life lesson from me to you... be nice to Everyone!
 💙 Thank you for reading my Bio! Follow me with the links below & let's collaborate!
 
-
 <a href="https://www.linkedin.com/" target="www.linkedin.com/in/mani-g-05b00516a">LinkedIn</a>
-
-<a href="https://mail.google.com/mail/" target="manig.devops@gmail.com">Gmail</a>
+< a href="mailto:manig.devops@gmail.com">Gmail< /a>
