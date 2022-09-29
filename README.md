@@ -9,4 +9,5 @@ Hey y'all 👋 My Name is Mani Gutta - it's nice to meet you!
 💙 Thank you for reading my Bio! Follow me with the links below & let's collaborate!
 
 <a href="https://www.linkedin.com/" target="www.linkedin.com/in/mani-g-05b00516a">LinkedIn</a>
-< a href="mailto:manig.devops@gmail.com">Gmail< /a>
+
+< a href="mailto:manig.devops@gmail.com" target="https://mail.google.com/mail/">Gmail< /a>
