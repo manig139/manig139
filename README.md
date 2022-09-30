@@ -1,5 +1,5 @@
 Hey y'all 👋 My Name is Mani Gutta - it's nice to meet you!<br />
-👀 I’m currently interested in CLoud/DevOps Engineering.<br /> 
+👀 I’m currently interested in Cloud/DevOps Engineering.<br /> 
 📚 I do have good Experience in Python, Terraform, Docker, Kubernetes & AWS/Azure.<br />
 💕 I’m looking to collaborate on anything & everything to do with DevOps/AWS CLoud!<br />
 💬 Ask me about my Hardwork! the effort that i put to acomplish my goals. <br />   
